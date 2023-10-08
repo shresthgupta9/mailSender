@@ -1,5 +1,5 @@
 const id = {
-    user: "shresthgupta9@gmail.com",
+    user: "xxxxx@gmail.com",
     pass: "get from google accounts",
 };
 
