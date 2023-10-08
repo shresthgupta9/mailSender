@@ -13,9 +13,9 @@ const transporter = nodemailer.createTransport({
 });
 
 const data = {
-    from: "shresthgupta9@gmail.com",
-    // to: "pihukumar770@gmail.com, shresthgupta9@hotmail.com",
-    to: "pihukumar770@gmail.com",
+    from: "sender email id",
+    // to: "xxxx@gmail.com, xxxxx@hotmail.com",
+    to: "receiver email id",
     subject: "NodeMailer Testing",
     // html:
     text: "Dear Shresth\nI hope this email finds you well. This is nodemailer app testing email\n\tTesting tab spacing\n\nThank You\nPihu Kumar",
